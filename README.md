@@ -3,6 +3,7 @@
 This is a basic Three.js project that sets up a simple 3D scene with a spinning cube. It serves as an introduction to using Three.js for 3D graphics in the browser.
 
 <h2>Table of Contents</h2>
+
 - Installation
 - Usage
 - Project Structure
