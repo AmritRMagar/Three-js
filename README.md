@@ -4,12 +4,12 @@ This is a basic Three.js project that sets up a simple 3D scene with a spinning 
 
 <h2><a name="table">Table of Contents</a></h2>
 
-1. Installation(#introduction)
-2. Usage(#usage)
-3. Project Structure(#project)
-4. Features(#feature)
-5. Contributing(#contribute)
-6. License(#license)
+1. [Installation](#introduction)
+2. [Usage](#usage)
+3. [Project Structure](#project)
+4. [Features](#feature)
+5. [Contributing](#contribute)
+6. [License](#license)
 
 <h2><a name="installation"> Installation</a></h2>
 To get started, you need to have Node.js installed on your machine.
